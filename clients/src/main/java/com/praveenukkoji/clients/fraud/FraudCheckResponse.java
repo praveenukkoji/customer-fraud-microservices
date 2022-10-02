@@ -1,4 +1,4 @@
-package com.praveenukkoji.fraud;
+package com.praveenukkoji.clients.fraud;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
